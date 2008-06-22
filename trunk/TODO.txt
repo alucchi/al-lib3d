@@ -1,0 +1,13 @@
+- Occlusion algorithm (Z buffer)
+
+- Sphere mapping
+
+- Fixed-point calculations
+http://www.digitalsignallabs.com/fp.pdf
+
+- Documentation :
+1. Generate UML diagram (Eclipse plugin)
+2. Doxygen
+
+- Optimization :
+TextureManager::Instance().LoadTexture(obj->textureID);
